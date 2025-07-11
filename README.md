@@ -1,1 +1,1 @@
-https://github.com/EugeneAbakumov/rsschool-cv.git
+https://github.com/EugeneAbakumov/rsschool-cv/cv
