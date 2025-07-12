@@ -18,8 +18,8 @@ I am 35 years old, I have been working as a medical equipment engineer for about
 * JavaScript (Basic)
 
 # Code Example #
-```
-function showMessage() {
+
+```function showMessage() {
   let message = "Hello, i'm JavaScript!"; 
 
   alert( message );
